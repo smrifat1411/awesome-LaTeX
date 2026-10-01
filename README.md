@@ -224,6 +224,7 @@ Formatters keep the layout of your LaTeX source consistent, so that you can focu
 - [LaTeXEqEdit](http://latexeqedit.sourceforge.net/) - LaTeX formula editor for Windows. ![windows] ![foss]
 - [LaTeXiT](https://www.chachatelier.fr/latexit/) - LaTeXit is an equation editor that makes it easy to drag-and-drop rendered equations (as PDF, PNG, etc.) into your non-LaTeX documents on the Mac. ![mac]
 - [LaTeX to Image](https://thomasahle.com/latex2png/) - Convert LaTeX to PNG, JPEG, or SVG images. Big symbols menu and easy drag-and-drop equations.
+- [OMML to LaTeX (wordpaste)](https://smrifat1411.github.io/wordpaste/omml-to-latex.html) - Converts Microsoft Word equations (OMML, from a .docx or the Word clipboard) to LaTeX in the browser or Node. No upload, zero dependencies. ![foss]
 - [pix2tex](https://lukas-blecher.github.io/LaTeX-OCR/) - LaTeX OCR ![windows] ![linux] ![mac] ![foss]
 - [Image to LaTeX](https://www.underleaf.ai/tools/image-to-latex) - AI-powered converter that transforms images of handwritten notes, equations, or tables into clean LaTeX code.
 
